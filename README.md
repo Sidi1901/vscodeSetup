@@ -20,7 +20,7 @@ Right click on the window file and choose split right and split down.
 Open command pallete by clicking on view.
 ![image](https://user-images.githubusercontent.com/62303912/217504393-63b2cb6b-ba33-4367-8223-4a7c161597da.png)
 
-write task in search box, select Configure task, copy and paste the contet of file below.
+write task in search box, select Configure task, copy and paste the content of file below.
 
 https://github.com/Sidi1901/vscodeSetup/blob/master/code.txt
 
